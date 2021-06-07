@@ -9,8 +9,6 @@ I'm project manager and a junior full-stack developer student at Code Institute.
 - :japan: [Explore National Parks of Japan](https://fruitbatm.github.io/explore-national-parks-of-japan/)
 
 - :chocolate_bar: [Amaris Chocolate](https://fruitbatm.github.io/amaris-chocolate/)
-<br>
-🔭 I’m currently working on Milestone Project 3.
 
 ## :gear: What I have worked with:
 ### Programming Languages
