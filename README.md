@@ -44,7 +44,10 @@ I'm project manager and a junior full-stack developer student at Code Institute.
 
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FruitbatM&show_icons=true&hide_border=true" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
 <br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
+
 <!--
 **FruitbatM/FruitbatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
