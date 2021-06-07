@@ -41,12 +41,10 @@ I'm project manager and a junior full-stack developer student at Code Institute.
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Franciskadtt)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 <br>
-
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FruitbatM&show_icons=true&hide_border=true" />
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
 
-<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
 
 <!--
