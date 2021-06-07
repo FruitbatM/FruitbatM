@@ -46,6 +46,7 @@ I'm project manager and a junior full-stack developer student at Code Institute.
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
 
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
 
 <!--
