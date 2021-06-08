@@ -11,7 +11,7 @@
 - :chocolate_bar: [Amaris Chocolate](https://fruitbatm.github.io/amaris-chocolate/)
 
 ### Group Projects
-- :shamrock: <strong>March Hackathon #5 - Discover Dublin:</strong> </strong><a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin trivia game website" target="_blank" rel="noopener noreferrer">Website</a>
+- :shamrock: <strong>March Hackathon #5 - Discover Dublin:</strong> </strong><a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://paddys-quiz.herokuapp.com/" alt="Discover Dublin trivia game website" target="_blank" rel="noopener noreferrer">Website</a>
 </br>
 
 ## :gear: What I have worked with:
