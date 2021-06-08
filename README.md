@@ -1,6 +1,6 @@
-### Hi there, I'm Marina 👋
+## Hi there, I am Marina 👋
 
-I'm project manager and a junior full-stack developer student at Code Institute.
+### I am a Project Manager and a Full-Stack Developer student at Code Institute.
 
 🔭 I’m currently working on Milestone Project 3: Python and Data Centric Development
 
@@ -9,6 +9,10 @@ I'm project manager and a junior full-stack developer student at Code Institute.
 - :japan: [Explore National Parks of Japan](https://fruitbatm.github.io/explore-national-parks-of-japan/)
 
 - :chocolate_bar: [Amaris Chocolate](https://fruitbatm.github.io/amaris-chocolate/)
+
+### Group Projects
+- :shamrock: <strong>March Hackathon #5 - Discover Dublin:</strong> </strong><a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin trivia game website" target="_blank" rel="noopener noreferrer">Website</a>
+</br>
 
 ## :gear: What I have worked with:
 ### Programming Languages
