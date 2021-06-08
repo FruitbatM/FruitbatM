@@ -36,14 +36,15 @@
 
 ### Version Control & Coding
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Franciskadtt)
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/FruitbatM)
 ![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
 ![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)
 
 ### Hosting 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Franciskadtt)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/FruitbatM)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 <br>
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FruitbatM&show_icons=true&hide_border=true" />
