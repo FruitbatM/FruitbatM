@@ -6,6 +6,8 @@
 
 ### Projects I have finished:
 
+- :stethoscope: [AIRMED](http://airmed-doc-app.herokuapp.com/)
+
 - :japan: [Explore National Parks of Japan](https://fruitbatm.github.io/explore-national-parks-of-japan/)
 
 - :chocolate_bar: [Amaris Chocolate](https://fruitbatm.github.io/amaris-chocolate/)
