@@ -2,8 +2,6 @@
 
 ### I am a Project Manager and a Full-Stack Developer student at Code Institute.
 
-🔭 I’m currently working on Milestone Project 3: Python and Data Centric Development
-
 ### Projects I have finished:
 
 - :stethoscope: [AIRMED](http://airmed-doc-app.herokuapp.com/)
