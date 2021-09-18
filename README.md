@@ -47,12 +47,21 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/FruitbatM)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 <br>
+<br>
+### Current Stats 📊
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FruitbatM&show_icons=true&hide_border=true" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FruitbatM&" alt="FruitbatM" /></p>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
 
+<br>
+  
+### Connect With Me 📫  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/marina-pavlovic-3855098/)
+  
 <!--
 **FruitbatM/FruitbatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
