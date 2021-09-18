@@ -1,6 +1,6 @@
 ## Hi there, I am Marina 👋
 
-### I am a Project Manager and a Full-Stack Developer student at Code Institute.
+### I am a Project Manager and a Full-Stack Developer student at Code Institute. I am currently working on my 4th Milestone project.
 
 ### Projects I have finished:
 
