@@ -1,6 +1,19 @@
-## Hi there, I am Marina 👋
+## Hi there 👋
 
-### I am a Project Manager and a Full-Stack Developer student at Code Institute. I am currently working on my 4th Milestone project.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/marina-pavlovic-3855098/)
+
+<a href="https://app.daily.dev/Fruitbat" target="_blank">
+  <img 
+       width="256"
+       align="right"
+       src="https://api.daily.dev/devcards/56c6d0a1ff1244a08cb2222a2d405905.png?r=xkn" 
+       alt="Marina Pavlovic's Dev Card"/>
+</a>
+
+## I am Marina
+- Full-Stack Developer student at Code Institute
+- Project Manager
+- I am currently working on my 4th Milestone project
 
 ### Projects I have finished:
 
@@ -56,11 +69,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
-
-<br>
-  
-### Connect With Me 📫  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/marina-pavlovic-3855098/)
   
 <!--
 **FruitbatM/FruitbatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
