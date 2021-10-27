@@ -13,9 +13,10 @@
 ## I am Marina
 - Full-Stack Developer student at Code Institute
 - Project Manager
-- I am currently working on my 4th Milestone project
 
 ### Projects I have finished:
+
+- :running_woman: [TRΛIL RUN ΛDVENTURES](https://trail-run-adventures.herokuapp.com/)
 
 - :stethoscope: [AIRMED](http://airmed-doc-app.herokuapp.com/)
 
