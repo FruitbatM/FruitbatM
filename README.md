@@ -13,7 +13,7 @@
 ## I am Marina
 - Full-Stack Developer student at Code Institute
 - Project Manager
-- Currently learning React
+- Currently learning React and Cloud Computing
 
 ### Projects I have finished:
 
