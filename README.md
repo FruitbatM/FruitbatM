@@ -27,6 +27,8 @@
 
 ### Group Projects
 
+- :notes: <strong>Accelerating the future of workforce well-being and mindfulness</strong> </strong><a href="https://github.com/AdamBoley/January-2022-Hackathon" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://mindtimer.herokuapp.com/" alt="B-Care website" target="_blank" rel="noopener noreferrer">Website</a>
+
 - :reminder_ribbon: <strong>WOMEN IN TECH Hackathon - Breast Cancer Awareness</strong> </strong><a href="https://github.com/andrewdempsey2018/B-Care" alt="B-Care Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://b-care-wit.herokuapp.com/" alt="B-Care website" target="_blank" rel="noopener noreferrer">Website</a>
 
 - :shamrock: <strong>March Hackathon #5 - Discover Dublin:</strong> </strong><a href="https://github.com/cnridley/the-mighty-bits-hackathon-proj" alt="Discover Dublin Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://paddys-quiz.herokuapp.com/" alt="Discover Dublin trivia game website" target="_blank" rel="noopener noreferrer">Website</a>
