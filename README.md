@@ -11,11 +11,12 @@
 </a>
 
 ## I am Marina
-- Full-Stack Developer student at Code Institute
+- Junior Full-Stack Developer
+- Code Institute Alumna
 - Project Manager
 - Currently learning React and Cloud Computing
 
-### Projects I have finished:
+### Projects I have completed:
 
 - :running_woman: [TRΛIL RUN ΛDVENTURES](https://trail-run-adventures.herokuapp.com/)
 
