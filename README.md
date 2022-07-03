@@ -14,7 +14,7 @@
 - Junior Full-Stack Developer
 - Code Institute Alumna
 - Project Manager
-- Currently learning React and Cloud Computing
+- Currently learning React and PHP
 
 ### Projects I have completed:
 
