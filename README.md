@@ -84,7 +84,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FruitbatM&" alt="FruitbatM" /></p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&hide=TeX&layout=compact)
+<a href="https://github.com/FruitbatM/github-readme-stats"><img alt="Marina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FruitbatM&langs_count=8&count_private=true&layout=compact"/></a>
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FruitbatM)
   
