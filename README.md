@@ -13,8 +13,9 @@
 ## I am Marina
 - Junior Full-Stack Developer
 - Code Institute Alumna
+- Dublin Business School student - Higher Diploma in Science in Computing: Web and Cloud Technologies expected in 2023
 - Project Manager
-- Currently learning React and PHP
+- Currently learning PHP and React
 
 ### Projects I have completed:
 
