@@ -11,13 +11,13 @@
 </a>
 
 ## I am Marina
-- Junior Full-Stack Developer
+- Back-end Developer
 - Code Institute Alumna
 - Dublin Business School student - Higher Diploma in Science in Computing: Web and Cloud Technologies expected in 2023
 - Project Manager
 - Currently learning PHP and React
 
-### Projects I have completed:
+### Some of the projects I have completed:
 
 - :running_woman: [TRΛIL RUN ΛDVENTURES](https://trail-run-adventures.herokuapp.com/)
 
