@@ -11,7 +11,7 @@
 </a>
 
 ## I am Marina
-- Back-end Developer
+- Full-stack Developer
 - Code Institute Alumna
 - Dublin Business School student - Higher Diploma in Science in Computing: Web and Cloud Technologies expected in 2023
 - Project Manager
