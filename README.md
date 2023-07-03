@@ -19,7 +19,7 @@
 
 ### Some of the projects I have completed:
 
-- :running_woman: [TRΛIL RUN ΛDVENTURES](https://trail-run-adventures.herokuapp.com/)
+- :running: [TRΛIL RUN ΛDVENTURES](https://trail-run-adventures.herokuapp.com/)
 
 - :stethoscope: [AIRMED](http://airmed-doc-app.herokuapp.com/)
 
